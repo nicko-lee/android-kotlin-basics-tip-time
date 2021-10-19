@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun calculateTip() {
         // Get the user entered cost
-        val stringInTextField = binding.costOfService.text.toString()
+        val stringInTextField = binding.costOfServiceEditText.text.toString()
         val cost = stringInTextField.toDoubleOrNull()
         if (cost == null) {
             binding.tipResult.text = ""
