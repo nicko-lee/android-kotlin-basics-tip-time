@@ -1,6 +1,6 @@
 # Android Kotlin Tip Time App
 
-![tiptime-app](https://user-images.githubusercontent.com/37054216/138090875-9f131e3b-38c4-4bc5-8e9c-3a420558db26.png | width=200)
+![tiptime-app](https://user-images.githubusercontent.com/37054216/138090875-9f131e3b-38c4-4bc5-8e9c-3a420558db26.png){width="200px"}
 
 ## Key concepts learned
 - How to build a sample UI with several different View components
