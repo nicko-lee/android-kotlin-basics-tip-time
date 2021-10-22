@@ -10,4 +10,5 @@
 - How to customize app icon
 - How to add vector icons to improve app design and UX
 - How to utilize styles and themes
-    - How to set a Light Mode and Dark Mode theme 
+    - How to set a Light Mode and Dark Mode theme
+- Basics of classes and inheritance in Kotlin
